@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1522705925 source:c:\users\sidhantha\desktop\riui\riui\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1522614331 source:c:\users\sidhantha\desktop\riui\riui\notepad.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1522703897 source:c:\users\sidhantha\desktop\riui\riui\calculation.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1522705925 source:c:\users\sidhantha\desktop\riui\riui\infix_postfix .cpp
+	<bits/stdc++.h>
+
+1522705141 source:c:\users\sidhantha\desktop\riui\riui\date_time.cpp
+	<iostream>
+	<iostream>
+	<string>
+	<stdio.h>
+	<time.h>
+
+1522706291 source:c:\users\sidhantha\desktop\riui\riui\help.cpp
+	<iostream>
+	<fstream>
+
+1522703897 source:c:\users\sidhantha\onedrive\documents\riui\calculation.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1522705141 source:c:\users\sidhantha\onedrive\documents\riui\date_time.cpp
+	<iostream>
+	<iostream>
+	<string>
+	<stdio.h>
+	<time.h>
+
+1522706291 source:c:\users\sidhantha\onedrive\documents\riui\help.cpp
+	<iostream>
+	<fstream>
+
+1522705925 source:c:\users\sidhantha\onedrive\documents\riui\infix_postfix .cpp
+	<bits/stdc++.h>
+
+1525159389 source:c:\users\sidhantha\onedrive\documents\riui\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1522614331 source:c:\users\sidhantha\onedrive\documents\riui\notepad.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1525157232 source:c:\users\sidhantha\onedrive\documents\riui\launch file.cpp
+	<windows.h>
+	<iostream>
+
+1525159389 source:c:\users\sidhantha\onedrive\documents\riui\search.cpp
+	<windows.h>
+	<iostream>
+
+1522703897 source:g:\sidhantha\documents\riui\calculation.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1522705141 source:g:\sidhantha\documents\riui\date_time.cpp
+	<iostream>
+	<iostream>
+	<string>
+	<stdio.h>
+	<time.h>
+
+1526670547 source:g:\sidhantha\documents\riui\help.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1522705925 source:g:\sidhantha\documents\riui\infix_postfix .cpp
+	<bits/stdc++.h>
+
+1525157232 source:g:\sidhantha\documents\riui\launch file.cpp
+	<windows.h>
+	<iostream>
+
+1526668901 source:g:\sidhantha\documents\riui\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1522614331 source:g:\sidhantha\documents\riui\notepad.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1525159389 source:g:\sidhantha\documents\riui\search.cpp
+	<windows.h>
+	<iostream>
+

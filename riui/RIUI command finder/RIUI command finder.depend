@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539332414 source:d:\user data\documents\source\others\programs\riui command finder\main.cpp
+	<iostream>
+	<fstream>
+

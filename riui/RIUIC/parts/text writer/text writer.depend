@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522409846 source:g:\sidhantha\documents\programs\text writer\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+

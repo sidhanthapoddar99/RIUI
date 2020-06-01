@@ -1,0 +1,27 @@
+ switch(n){
+    case 1:cout<<"not possible"<<endl;
+    break;
+    case 2:notepad();//notepad
+    break;
+    case 3:bye();// bye bye
+    break;
+    case 4:exptree(a);//calculate exp
+    break;
+    case 6:add_to_file(1);//add to file
+    break;
+    case 7:del_from_file(a);//delete exp
+    break;
+    case 8:debugm++;//switch debug mode
+    break;
+    case 9:date();//show date
+    break;
+    case 10:help(a);
+    break;
+    case 11:launch(a);
+    break;
+    case 12:searchh(a);
+    break;
+    case 13:searchh(a);
+    break;
+    default:cout<<"wrong input";
+    break;
